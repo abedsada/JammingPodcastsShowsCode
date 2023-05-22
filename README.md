@@ -1,4 +1,4 @@
-# [Portfolio Project: Explore Shows & Poadcasts With the Spotify API ](https://www.codecademy.com/journeys/front-end-engineer/paths/fecj-22-front-end-development/tracks/fecj-22-react-part-ii/modules/wdcp-22-jammming-b26fb9a6-a249-4dda-91a0-ebaa5c8de0ce/kanban_projects/jammming-react18)
+# [Portfolio Project: Explore Shows & Poadcasts With the Spotify API ](https://abedsada.github.io/JammingPodcastsShows/)
 Codecademy Off-Platform Project: Explore Shows & Poadcasts With the Spotify API
 
 ## Overview 
