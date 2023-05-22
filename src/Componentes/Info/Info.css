@@ -1,0 +1,52 @@
+.Infolist {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-evenly;
+  overflow-y: hidden;
+  width: 40%;
+  height: 95%;
+  padding: 1.3rem 1.16rem 0.5rem;
+  background-color: var(--primary-color);
+  box-shadow: 0 4px 2px 2px rgb(0, 0, 0);
+  box-sizing: border-box;
+}
+.Infolist h2{
+  margin-bottom: 4%; /* Will be modified later*/
+}
+.Infolist h3{
+  font-size: 16px;
+  padding-bottom: 1%;
+  text-align: center;
+}
+.showDetails{
+  overflow-y: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: start;
+  width: 85%;
+  font-size: 12px;
+}
+button{
+  margin-top: 2%;
+}
+
+.imgContainer img{
+  width: 60%;
+  margin: 2% auto;
+  overflow: hidden;
+}
+img{
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+@media only screen and (max-width: 1020px) {
+  .Infolist {
+    width: 90%;
+    min-height: 80%;
+    margin-bottom: 5rem;
+  }
+}
